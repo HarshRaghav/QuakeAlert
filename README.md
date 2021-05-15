@@ -11,4 +11,4 @@ This application support dark theme.
 
 ## Screenshots
 
-[![screenshot12313.jpg](https://i.postimg.cc/brD9zyq9/screenshot12313.jpg)](https://postimg.cc/bSPtgjDZ)          [![Screenshot-1621066775.png](https://i.postimg.cc/QM8PjTwg/Screenshot-1621066775.png)](https://postimg.cc/XrPx8pVX)            [![screenshot324234.jpg](https://i.postimg.cc/FR1BLQ97/screenshot324234.jpg)](https://postimg.cc/S2FrB3Yh)
+[![screenshot234235.jpg](https://i.postimg.cc/8zGS2sHD/screenshot234235.jpg)](https://postimg.cc/vc0k9YkS)        [![Screenshot-1621066775.png](https://i.postimg.cc/QM8PjTwg/Screenshot-1621066775.png)](https://postimg.cc/XrPx8pVX)            [![screenshot324234.jpg](https://i.postimg.cc/FR1BLQ97/screenshot324234.jpg)](https://postimg.cc/S2FrB3Yh)
